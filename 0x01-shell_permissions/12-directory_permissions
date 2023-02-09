@@ -1,0 +1,2 @@
+#!/bin/bash
+lkdir -m 751 my_dir
